@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Sign In Stranger",
+  "base_artist": "Steely Dan",
+  "createdAt": "2026-03-30T15:06:46.034636Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sign In Stranger",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/01_Sign_In_Stranger_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sign In Stranger (Album Version)",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/02_Sign_In_Stranger_(Album_Version)_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sign in Stranger (Live)",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/03_Sign_in_Stranger_(Live)_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sign In Stranger",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/04_Sign_In_Stranger_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sign In Stranger",
+      "artist": "Steely Dan",
+      "has_synced": false,
+      "path": "select/05_Sign_In_Stranger_Steely_Dan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sign In Stranger",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/06_Sign_In_Stranger_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sign In Stranger.Dts",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/07_Sign_In_Stranger.Dts_Steely_Dan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sign In Stranger",
+      "artist": "Steely Dan",
+      "has_synced": false,
+      "path": "select/pl_01_Sign_In_Stranger_Steely_Dan.txt"
+    }
+  ]
+}
